@@ -4,7 +4,7 @@ A simple Python test project.
 
 ## Files
 
-- `hello.py`: Hello World script in Python.
+- `hello.py`: BMI 計算器程式。
 
 ## Usage
 
